@@ -2,7 +2,7 @@
 Welcome to my page. I'm a software developer and university student from Brazil with experience in fullstack development, cloud computing, machine learning/deep learning, computer vision, infrastructure automation and Linux systems administration.
 
 ## Technologies
-Languages, tools, frameworks, libraries and other technologies I've worked with or am currently learning.
+Languages, tools, frameworks, libraries and other technologies I've worked with, am working with or am currently learning.
 
 ### Languages, markup and scripting
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -61,12 +61,10 @@ Languages, tools, frameworks, libraries and other technologies I've worked with 
 
 <div align="center">
   <img
-    height="180"
     src="https://github-readme-stats-psi-eight-41.vercel.app/api?username=marianarfm&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=F78166"
     alt="Mariana Martins' GitHub stats"
   />
   <img
-    height="180"
     src="https://github-readme-stats-psi-eight-41.vercel.app/api/top-langs/?username=marianarfm&langs_count=10&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9"
     alt="Top Languages"
   />
