@@ -61,18 +61,18 @@ Languages, tools, frameworks, libraries and other technologies I've worked with,
 
 <div align="center">
   <img
-    src="https://github-readme-stats-psi-eight-41.vercel.app/api?username=marianarfm&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=F78166"
+    src="https://github-readme-stats-psi-eight-41.vercel.app/api?username=mariana-regia&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=F78166"
     alt="Mariana Martins' GitHub stats"
   />
   <img
-    src="https://github-readme-stats-psi-eight-41.vercel.app/api/top-langs/?username=marianarfm&langs_count=10&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9"
+    src="https://github-readme-stats-psi-eight-41.vercel.app/api/top-langs/?username=mariana-regia&langs_count=10&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9"
     alt="Top Languages"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=marianarfm&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9"
+    src="https://streak-stats.demolab.com?user=mariana-regia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9"
     alt="GitHub streak"
   />
 </div>
