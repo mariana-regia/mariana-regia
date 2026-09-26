@@ -41,7 +41,7 @@ Languages, tools, frameworks, libraries and other technologies I have worked wit
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 
 ### Infrastructure, monitoring and automation
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -60,28 +60,46 @@ Languages, tools, frameworks, libraries and other technologies I have worked wit
 ## Stats
 
 <div align="center">
-  <img
-    src="https://github-readme-stats-psi-eight-41.vercel.app/api?username=mariana-regia&show_icons=true&theme=github_dark&include_all_commits=true&rank_icon=github&hide_border=true"
-    alt="Mariana Régia's GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats-psi-eight-41.vercel.app/api/top-langs/?username=mariana-regia&langs_count=10&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-psi-eight-41.vercel.app/api?username=mariana-regia&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=F78166">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-eight-41.vercel.app/api?username=mariana-regia&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github&hide_border=true&title_color=0969DA&text_color=24292F&icon_color=8250DF">
+    <img
+      src="https://github-readme-stats-psi-eight-41.vercel.app/api?username=mariana-regia&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github&hide_border=true&title_color=0969DA&text_color=24292F&icon_color=8250DF"
+      height="195"
+      alt="Mariana Martins' GitHub stats"
+    />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-psi-eight-41.vercel.app/api/top-langs/?username=mariana-regia&langs_count=10&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-eight-41.vercel.app/api/top-langs/?username=mariana-regia&langs_count=10&layout=compact&theme=transparent&hide_border=true&title_color=0969DA&text_color=24292F">
+    <img
+      src="https://github-readme-stats-psi-eight-41.vercel.app/api/top-langs/?username=mariana-regia&langs_count=10&layout=compact&theme=transparent&hide_border=true&title_color=0969DA&text_color=24292F"
+      alt="Top Languages"
+    />
+  </picture>
 </div>
 
 <div align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/wakatime?username=87903ce3-cb78-4c5a-9ca5-89dd0ff2262a&custom_title=Most%20Used%20Languages%20%28Last%207%20Days%29&langs_count=5&theme=dark_github&hide_border=true"
-    alt="WakaTime development time"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=87903ce3-cb78-4c5a-9ca5-89dd0ff2262a&custom_title=Most%20Used%20Languages%20%28Last%207%20Days%29&langs_count=5&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=87903ce3-cb78-4c5a-9ca5-89dd0ff2262a&custom_title=Most%20Used%20Languages%20%28Last%207%20Days%29&langs_count=5&theme=transparent&hide_border=true&title_color=0969DA&text_color=24292F">
+    <img
+      src="https://github-stats-extended.vercel.app/api/wakatime?username=87903ce3-cb78-4c5a-9ca5-89dd0ff2262a&custom_title=Most%20Used%20Languages%20%28Last%207%20Days%29&langs_count=5&theme=transparent&hide_border=true&title_color=0969DA&text_color=24292F"
+      height="195"
+      alt="WakaTime development time"
+    />
+  </picture>
 </div>
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=mariana-regia&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"
-    alt="GitHub streak"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mariana-regia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=mariana-regia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0969DA&fire=D1242F&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A&sideNums=24292F&currStreakNum=24292F">
+    <img
+      src="https://streak-stats.demolab.com?user=mariana-regia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0969DA&fire=D1242F&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A&sideNums=24292F&currStreakNum=24292F"
+      alt="GitHub streak"
+    />
+  </picture>
 </div>
 
 ## Contact
