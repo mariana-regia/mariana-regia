@@ -72,6 +72,13 @@ Languages, tools, frameworks, libraries and other technologies I have worked wit
 
 <div align="center">
   <img
+    src="https://github-stats-extended.vercel.app/api/wakatime?username=87903ce3-cb78-4c5a-9ca5-89dd0ff2262a&custom_title=Most%20Used%20Languages%20%28Last%207%20Days%29&langs_count=5&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9"
+    alt="WakaTime development time"
+  />
+</div>
+
+<div align="center">
+  <img
     src="https://streak-stats.demolab.com?user=mariana-regia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9"
     alt="GitHub streak"
   />
